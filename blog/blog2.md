@@ -22,7 +22,7 @@ language and I took notes. I learned about the following concepts:
 In order to run code, there must be a class. The rest of the code, such as 
 integers, booleans, and characters,  will be in that class in order for it to opperate.
 
-```
+```Java
 //Print my name
 public class YourName {
 	public static void main(String[] args) {
@@ -38,7 +38,7 @@ inside of the class, including the `System.out.println("rawfur");` which
 displays `YourName` or what ever is written in the parenthesis.
 
 
-```
+```Java
 //Setting values for integer, boolean, and char variables
 public class Variables {
 	public static void main(String[] args) {
