@@ -9,4 +9,4 @@
 
 [Next](blog4.md)
 
-[Home](cd ../README.md)
+[Home](README.md)
