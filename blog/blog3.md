@@ -9,4 +9,6 @@
 
 [Next](blog4.md)
 
+[Previous](blog2.md)
+
 [Home](../README.md)

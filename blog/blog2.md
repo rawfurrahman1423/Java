@@ -64,3 +64,7 @@ In the code snippet above, all three types of variables, `int`, `boolean`, and
 
 
 [Next](blog3.md)
+
+[Previous](blog1.md)
+
+[Home](../README.md)
