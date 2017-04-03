@@ -32,11 +32,11 @@ public class YourName {
 	}
 }
 ```
+
 The code Above creates a class called `YourName`. the rest of the code runs 
 inside of the class, including the `System.out.println("rawfur");` which 
 displays `YourName` or what ever is written in the parenthesis.
 
-Instead of just printing a name, you can also store variables.
 
 ```
 //Setting values for integer, boolean, and char variables
@@ -50,6 +50,8 @@ public class Variables {
 	}
 }
 ```
+
+Instead of just printing a name, you can also store variables.
 In the code snippet above, all three types of variables, `int`, `boolean`, and 
 `char`, are being used and being given values to.
 
