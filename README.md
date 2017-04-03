@@ -4,7 +4,7 @@
 
 + [Post 1](blog/blog1.md)
 + [Post 2](blog/blog2.md)
-+ [Post 3]
++ [Post 3](blog/blog3.md)
 + [Post 4] 
 + [Post 5] 
 + [Post 6] 
