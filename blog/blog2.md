@@ -1,4 +1,4 @@
-# Blog 2:
+# Post 2:
 I started this week off feeling conflicted about what topic should do because 
 this was the last time I would be able to change it. I ended up with two choices 
 left. My choices were SASS and Java. SASS, short for Syntactically Awesome Style 

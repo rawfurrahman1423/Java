@@ -1,3 +1,3 @@
-# Blog 1:
+# Post 1:
 
 [Next](blog2.md)
