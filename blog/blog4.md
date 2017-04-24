@@ -6,7 +6,7 @@ some of the concepts from previous languages I have learned, I have become more
 fluent with them. The main concepts that I have become more familiar with are 
 conditionals and the Switch statement. 
 
-# New Concepts
+## New Concepts:
 
 ## Conditionals
 
