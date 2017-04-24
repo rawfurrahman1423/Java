@@ -8,7 +8,7 @@ conditionals and the Switch statement.
 
 ## New Concepts:
 
-## Conditionals
+### Conditionals
 
 ```Java
 public class IfElseIf {
@@ -56,7 +56,7 @@ public class Ternary {
 }
 ```
 
-## Switch Statements
+### Switch Statements
 
 ```Java
 //using switch - will print out default
