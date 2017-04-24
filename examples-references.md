@@ -1,4 +1,4 @@
-```
+```Java
 //Print my name
 public class YourName {
 	public static void main(String[] args) {
@@ -9,7 +9,8 @@ public class YourName {
 }
 ```
 
-```
+
+```Java
 //Integer
 public class DataTypes {
 	public static void main(String[] args) {
@@ -20,7 +21,8 @@ public class DataTypes {
 }
 ```
 
-```
+
+```Java
 //boolean (true or false)
 public class DataTypesB {
 	public static void main(String[] args) {
@@ -31,7 +33,8 @@ public class DataTypesB {
 }
 ```
 
-```
+
+```Java
 //Char (character) - must have only have 1 parenthesis 
 public class DataTypesC {
 	public static void main(String[] args) {
@@ -42,7 +45,8 @@ public class DataTypesC {
 }
 ```
 
-```
+
+```Java
 //Setting values for integer, boolean, and char variables
 public class Variables {
 	public static void main(String[] args) {
@@ -55,6 +59,74 @@ public class Variables {
 }
 ```
 
+
+```Java
+//conditionals (if else)
+public class IfElseIf {
+	public static void main(String[] args) {
+
+		int round = 11;
+
+		if (round > 12) {
+
+			System.out.println("The match is over!");
+
+		} else if (round > 0) {
+
+			System.out.println("The match is underway!");
+
+		}	else {
+
+			System.out.println("The boxing match hasn't started yet.");
+
+		}	
+	}
+}
 ```
-h
+
+
+```Java
+//if else statement in a single line
+public class Ternary {
+	public static void main(String[] args) {
+		
+		int fuelLevel = 3;
+
+		char canDrive = (fuelLevel > 0) ? 'Y' : 'N';
+		System.out.println(canDrive);
+
+	}
+}
 ```
+
+
+```Java
+//using switch - will print out default
+public class Switch {
+	public static void main(String[] args) {
+		
+		char penaltyKick = 'X';
+
+		switch (penaltyKick) {
+
+			case 'L': System.out.println("Messi shoots to the left and scores!");
+								break; 
+			case 'R': System.out.println("Messi shoots to the right and misses the goal!");
+								break;
+			case 'C': System.out.println("Messi shoots down the center, but the keeper blocks it!");
+								break;
+			default:
+				System.out.println("Messi is in position...");
+
+		}
+
+	}
+}
+}
+```
+
+
+```Java
+
+```
+
