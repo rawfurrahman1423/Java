@@ -14,9 +14,10 @@ There were several files that I needed to download including an entire server so
 I can could run the java code with html. So now I am in the process of making webpage 
 with Java and preparing my presentation for everything that I learned. 
 
+<img src=Eclipse.png></img>
 
 # Takeaways
-+This week, I learned that when I am stuck, I should not lose confidence. What I 
++ This week, I learned that when I am stuck, I should not lose confidence. What I 
 did before that made me take so long to reach this point was whenever I was stuck
 on something or found something difficult, I would leave it for later. I would just 
 say to myself that I can always do it tomorrow. However this week I did not have the 
