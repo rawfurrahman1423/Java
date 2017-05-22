@@ -6,7 +6,7 @@ using eclipse.che as an IDE on the cloud. It ran on Codenvy and so I could use i
 from place to place. However, although I was able to make it print with an HTML page 
 and Java, it was very difficult to use. I ended up a local IDE called eclipse. 
 
-<img src=http://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-800x188.png></img>
+<img src=http://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-800x188.png width=400></img>
 
 I downloaded Eclipse and started my work from scratch. I already had knowledge on 
 how to use some of the files but after experimenting I was able to use it much easier. 
