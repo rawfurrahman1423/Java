@@ -14,7 +14,7 @@ There were several files that I needed to download including an entire server so
 I can could run the java code with html. So now I am in the process of making webpage 
 with Java and preparing my presentation for everything that I learned. 
 
-<img src="../../Eclipse.png"></img>
+<img src=Eclipse.png"></img>
 
 # Takeaways
 + This week, I learned that when I am stuck, I should not lose confidence. What I 
