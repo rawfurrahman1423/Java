@@ -10,3 +10,10 @@
 + [Post 6](blog/blog6.md) 
 + [Post 7](blog/blog7.md) 
 + [Post 8](blog/blog8.md)
+
+
+Link to project:
+https://github.com/rawfurrahman1423/JavaCode/tree/master/IndependentProject
+
+Link to slides:
+https://docs.google.com/a/hstat.org/presentation/d/1wY-ttIo8O-9QuN98lBDGneSkUe56iiYSWQedO7b5KxU/edit?usp=sharing
